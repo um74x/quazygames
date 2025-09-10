@@ -1,0 +1,2 @@
+# quazymath
+duckmath is cool
